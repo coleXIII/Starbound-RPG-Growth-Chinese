@@ -1,0 +1,32 @@
+[
+  {
+    "path": "/fire/text",
+    "op": "replace",
+    "source": "Flame, the Powerful Affinity. This Affinity grants Fire based Immunities and Resistances, and a Medium Vigor Stat Boost. Provides better Immunities and a Large Strength Stat Boost when upgraded. Be careful, as choosing this Affinity weakens you while Submerged, and makes you weak to Poison.",
+    "value": "火，强大属性。这种属性给予火免和火抗，以及中等提升你的的活力值。升级后提供更好的火免和更好的体力状态提升。小心点，因为选择这种属性会削弱你潜入水中的能力，使你对弱毒。"
+  },
+  {
+    "path": "/poison/text",
+    "op": "replace",
+    "source": "Venom, the Proficient Affinity. This Affinity grants Poison based Immunities and Resistances, and a Small Vigor, Dexterity, and Agility Stat Boost. Provides better Immunities and a Large Dexterity Stat Boost when upgraded. Be careful, as choosing this Affinity lowers your Max Health and makes you weak to Electricity.",
+    "value": "毒，熟练属性。这种属性给予毒免和毒抗，以及略微提升你的活力、敏捷和灵巧属性。在升级时提供更好的毒免和灵巧。小心点，因为选择这种属性会降低你的最大生命水平，使你弱电。小心点，因为选择这种亲和力会降低你的最大生命水平，使你对电很弱。"
+  },
+  {
+    "path": "/ice/text",
+    "op": "replace",
+    "source": "Frost, the Protective Affinity. This Affinity grants Ice based Immunities and Resistances, and a Medium Vitality Stat Boost. Provides better Immunities and a Large Endurance Stat Boost when upgraded. Be careful, as choosing this Affinity lowers your Speed and Jump Height, and makes you weak to Fire.",
+    "value": "冰，保护属性。这种属性给予冰免和冰抗，以及中等提升你的体质值。升级后提供更好的冰免和更多的耐力。小心点，因为选择这种属性会降低你的速度和跳跃高度，并使你弱火。"
+  },
+  {
+    "path": "/electric/text",
+    "op": "replace",
+    "source": "Shock, the Perceptive Affinity. This Affinity grants Electric based Immunities and Resistances, and a Medium Agility Stat Boost. Provides better Immunities and a Large Intelligence Stat Boost when upgraded. Be careful, as choosing this Affinity weakens you while Submerged, and makes you weak to Frost.",
+    "value": "电，敏锐属性。这种属性可以给予电免和电抗，以及中等持续提升你的敏捷度。升级后提供更好的电免和更多的智力值提升。小心点，因为选择这种属性会削弱你在水下的能力，使你弱冰。"
+  },
+  {
+    "path": "/default/text",
+    "op": "replace",
+    "source": "Click an Affinity's icon to see what that Affinity does.",
+    "value": "单击属性的图标查看该属性的作用。"
+  }
+]
